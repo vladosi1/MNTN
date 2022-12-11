@@ -461,6 +461,10 @@ background: url('./../img/Icons/right.svg') no-repeat;
 .footer__data__terms {
 	padding-top: 50px;
 }
+	.content__img__reverse img {
+	margin-right: 150px;
+
+}
 
 }
 @media (max-width:1000px) {
